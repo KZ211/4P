@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Faster+One&display=swap');
+body { 
+  background-color: #000;
+
+ }
+.Menu { 
+  background-color: transparent;
+  transition: 0.1s;
+  position: relative;
+  bottom: 230px;
+  left: 75%;
+  padding: 10px 22px;
+  color: #000;
+  text-decoration: none;
+ }
+ .Menu:hover { 
+  background: #FF3000;
+  border-radius: 50px;
+  border: 3px solid #000;
+ }
+ .Enca { 
+  background-color: #FF6000;
+  padding: 250px 0px;
+  margin: -8px -8px 0px -8px;
+ }
+ .Img { 
+  position: absolute;
+  height: 400px;
+  top: 30px;
+  bottom: ;
+  left: 150px ;
+  right: ;
+  border-radius: 100%;
+  box-shadow: 20px 20px 20px #000;
+  }
+ .titu { 
+  position: relative;
+  font-size: 90px;
+  font-family:  'Arial';
+  color: #000;
+  width: 650px;
+  top: -430px;
+  bottom: ;
+  left: 650px;
+  right: ;
+  border: 30px solid #000 ;
+  border-radius: 50px;
+  box-shadow: 20px 20px 20px #000;
+  }
